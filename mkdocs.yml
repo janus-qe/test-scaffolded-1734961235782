@@ -1,0 +1,8 @@
+site_name: "test-scaffoldedfromlink-1734961235782"
+site_description: "react app using template"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
